@@ -1,0 +1,31 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDEwMTAxMDMwMzAzMDMwMzAxMDEwMTA2MDAwMDAwMDEwOTA3MDcwNzA3MDcwNzA3MDcwNzA5MDEwMDAwMDAwMTA5MGEwYTBhMGEwYTBhMGEwYTBhMDkwMTAwMDAwMDAzMDkwYTBhMGEwYTBhMGEwYTBhMGEwOTAzMDAwMDAwMDMwOTBhMGEwYTBhMGEwYTBhMGEwYTA5MDMwMDAwMDAwMzA5MGEwYTBhMGEwYTBhMGEwYTBhMDkwMzAwMDAwMDAzMDkwYTBhMGEwYTBhMGEwYTBhMGEwOTAzMDAwMDAwMDMwOTBhMGEwYTBhMGEwYTBhMGEwYTA5MDMwMDAwMDAwMTA5MGEwYTBhMGEwYTBhMGEwYTBhMDkwMTAwMDAwMDAxMDkwYTBhMGEwYTBhMGEwYTBhMGEwOTAxMDAwMDAwMDEwOTA4MDgwODA4MDgwODA4MDgwODA5MDEwMDAwMDAwNDAxMDEwMTAzMDMwMzAzMDMwMTAxMDEwNTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.swamp.swampTile9",
+            "sprites.swamp.swampTile6",
+            "sprites.swamp.swampTile13",
+            "sprites.swamp.swampTile12",
+            "sprites.swamp.swampTile14",
+            "sprites.swamp.swampTile8",
+            "sprites.builtin.crowd2",
+            "sprites.builtin.crowd8",
+            "sprites.castle.saplingOak",
+            "sprites.builtin.field1"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
